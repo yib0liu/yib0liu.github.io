@@ -39,7 +39,7 @@ actions:  # buggy? not working?
 
 I am Yibo Liu, a second year Ph.D. student in Computer Science at University of Victoria ([UVIC](https://www.uvic.ca/)), working with [Prof. Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) . Prior to this, I obtained my M.S. in Computer Science from New York University ([NYU](https://www.nyu.edu/)) and B.Eng. in Electronic Engineering from Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)). Previously, I have interned at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)). 
 
-My current research interest focuses on how LLMs and neural networks enhance the intelligence and expressivity of physical-based simulations.
+My current research focuses on computer graphics, geometry modeling, and AI4Science, particularly on leveraging generative AI (e.g. LLMs) and learning-based paradigms to enhance physics-based simulations.
 
 <!-- ## News
 
@@ -61,7 +61,8 @@ B.Eng. in Electronic Engineering, Sept 2015 - Jun 2019 -->
 
 ## Experience
 - **Univerisity of Victoria** | Sept 2023 - Present  <br/>
-PhD Candidate, Computer Science \
+PhD student in Computer Science \
+Supervisor: [Prof. Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) \
   <!-- Conducting research on neural kinematic bases for fluid simulation to accelerate physically-based fluid dynamics, and on multimodal language-based models for crowd simulation that leverage large language models for semantic reasoning and agent behavior modeling. -->
 
 - **Geometric Computing Lab, New York University** | 2022 - 2023 <br/>
@@ -88,7 +89,7 @@ Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
 
   **Neural Kinematic Bases for Fluids**
   
-  **Yibo Liu**, Paul Kry, Kenny Erleben, Noam Aigerman, Sune Darkner, Zhixin Fang, Teseo Schneider
+  **Yibo Liu**, Zhixin Fang, Sune Darkner, Noam Aigerman, Kenny Erleben, Paul Kry, Teseo Schneider
   
   [[Paper](https://arxiv.org/abs/2504.15657)] [[Demo](TODO)]
 
@@ -96,7 +97,7 @@ Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
 
 <ProjectCard image="/projects/crowds.png">
 
-  **An LLM Agent Based Emotion Model for Crowds Simulation**
+  **Emergent Crowds Dynamics from Language-Driven Multi-Agent Interactions**
 
   *In Submission*
   
@@ -137,7 +138,7 @@ Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clar
 
 *Proceedings of the 1st Workshop on Multilingual Representation Learning*, pp. 138-152, Nov. 2021. *(colocated with EMNLP 2021)*
 
-  [[Paper](https://aclanthology.org/2021.mrl-1.13.pdf)] 
+  [[Paper](https://aclanthology.org/2021.mrl-1.13.pdfs)] 
 
 </ProjectCard>
 
@@ -188,7 +189,7 @@ Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clar
 
 </ProjectCard>
 
-<ProjectCard image="/projects/deform.png" >
+<!-- <ProjectCard image="/projects/deform.png" >
 
   **A Python Implementation for *Harmonic Coordinates for Character Articulation***
   - Implemented a Python-based framework for harmonic coordinates to enable smooth and natural deformation in character articulation. 
@@ -204,15 +205,13 @@ Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clar
  - Summarized theoretical frameworks on GNN expressive power and generalization, offering a structured understanding of their strengths and limitations.
  - Examined overfitting challenges and outlined optimization strategies to improve GNN performance in practice.
 
+  [[Report](/files/GNN_Survey.pdf)]
+
+</ProjectCard> -->
+
 <!-- Summarized the theoretic frameworks of GNN’s expressive power; summarized the generalization bounds,
 the generalization ability of different GNNs, and the methods to improve generalization ability; stated the
 explanation of over-fitting problem and summarized the optimization methods. -->
-
-  [[Report](/files/GNN_Survey.pdf)]
-
-</ProjectCard>
-
-
 
 <!-- <ProjectCard image="/projects/10.png" >
 
@@ -263,11 +262,11 @@ explanation of over-fitting problem and summarized the optimization methods. -->
 
 
 ## Peer Review Service
-**AAAI Conference on Artificial Intelligence (AAAI)**, 2025
+**AAAI Conference on Artificial Intelligence (AAAI)** Reviewer, 2025
 
-**International Conference on Learning Representations (ICLR)**, 2025
+**International Conference on Learning Representations (ICLR)** Reviewer, 2025
 
-**Transactions on Visualization and Computer Graphics (TVCG)**, 2024
+**Transactions on Visualization and Computer Graphics (TVCG)** Reviewer, 2024
 
 ## Volunteer
 **SIGGRAPH Asia 2024** Student Volunteer | Tokyo, Japan | Dec 2024
@@ -281,9 +280,9 @@ explanation of over-fitting problem and summarized the optimization methods. -->
 
 **Software Architecture** | University of Victoria | 2024 fall
 
-## Skills
+<!-- ## Skills
 - Python, PyTorch, CUDA, C++, C#
-- Blender, Unity, ParaView
+- Blender, Unity, ParaView -->
 
 ## Blender Art Gallery
 

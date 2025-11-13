@@ -43,7 +43,7 @@ My current research focuses on computer graphics, physics-based simulation, geom
 
 ## Experience
 **Univerisity of Victoria** | Sept 2023 - Present  <br/>
-PhD student in Computer Science \
+PhD Researcher \
 Supervisor: [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) \
 Physics-informed neural framework for fluids simulation; Crowds animation and motion synthesis; Geometry processing.
 
@@ -53,8 +53,9 @@ Supervisors: [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) and [Dr. Daniele 
 GPU acceleration for contact simulations in [PolyFEM](http://github.com/polyfem/polyfem).
 
 **Microsoft Research Asia** | Aug 2020 - Feb 2021  <br/>
-Research Intern at *Data, Knowledge and Intelligence* group, full-time, onsite \
-  Tabular data intelligence with reinforcement learning.
+Research Intern \
+*Data, Knowledge and Intelligence* group \
+Tabular data intelligence with reinforcement learning.
 
 **CILVR Lab, New York University** | Mar 2020 - May 2021 <br/> 
 Research Assistant \

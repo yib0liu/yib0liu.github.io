@@ -3,18 +3,18 @@ pageClass: home-page
 # some data for the components
 
 name: Yibo Liu
-profile: /myprofile2.jpeg
+profile: /profile/profile2025.jpeg
 bio: CS PhD Candidate @ UVic
 email: liuyibo (at) uvic (dot) ca
 
 socials:
   - title: google-scholar
-    icon: "/icons/google-scholar.svg"
+    icon: "/icons/icons8-google-scholar-48.svg"
     link: https://scholar.google.com/citations?user=FQExy98AAAAJ&hl=en&oi=ao
 
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/xDarkLemon
+    link: https://github.com/yib0liu
 
   - title: linkedin
     icon: "/icons/linkedin.svg"
@@ -26,7 +26,7 @@ socials:
 
   - title: CV
     icon: "/icons/cv.svg"
-    link: /files/Yibo_Liu_CV_GM.pdf
+    link: /files/Yibo_Liu_CV.pdf
 
 actions:  # buggy? not working?
   - text: Projects
@@ -37,61 +37,45 @@ actions:  # buggy? not working?
 
 ## About
 
-I am Yibo Liu, a second year Ph.D. student in Computer Science at University of Victoria ([UVIC](https://www.uvic.ca/)), working with [Prof. Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) . Prior to this, I obtained my M.S. in Computer Science from New York University ([NYU](https://www.nyu.edu/)) and B.Eng. in Electronic Engineering from Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)). Previously, I have interned at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)). 
+Currently, I am a Ph.D. student in Computer Science at University of Victoria ([UVIC](https://www.uvic.ca/)), working with [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) . Prior to this, I obtained my M.S. in Computer Science from New York University ([NYU](https://www.nyu.edu/)) and B.Eng. in Electronic Engineering from Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)). Previously, I have interned at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)). 
 
-My current research focuses on computer graphics, geometry modeling, and AI4Science, particularly on leveraging generative AI (e.g. LLMs) and learning-based paradigms to enhance physics-based simulations.
-
-<!-- ## News
-
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
-
-
-<!-- ## Education
-
-- **University of Victoria**, BC, Canada <br/> 
-Ph.D. in Computer Science, Sept 2023 - present
-Supervisor: [Teseo Schneider](http://web.uvic.ca/~teseo/)
-
-- **New York University**, NY, USA <br/>
-M.S. in Computer Science, Sept 2019 - Dec 2022
-
-- **Beijing University of Posts and Telecommunications**, Beijing, China <br/>
-B.Eng. in Electronic Engineering, Sept 2015 - Jun 2019 -->
+My current research focuses on computer graphics, physics-based simulation, geometry processing, particularly on learning-based paradigms to enhance simulations.
 
 ## Experience
-- **Univerisity of Victoria** | Sept 2023 - Present  <br/>
+**Univerisity of Victoria** | Sept 2023 - Present  <br/>
 PhD student in Computer Science \
-Supervisor: [Prof. Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) \
-  <!-- Conducting research on neural kinematic bases for fluid simulation to accelerate physically-based fluid dynamics, and on multimodal language-based models for crowd simulation that leverage large language models for semantic reasoning and agent behavior modeling. -->
+Supervisor: [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) \
+Physics-informed neural framework for fluids simulation; Crowds animation and motion synthesis; Geometry processing.
 
-- **Geometric Computing Lab, New York University** | 2022 - 2023 <br/>
-Independent Study, supervised by [Prof. Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) and [Prof. Dr. Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) \
-  Conducting research on GPU acceleration for contact simulations in [PolyFEM](http://github.com/polyfem/polyfem) library.
+**Geometric Computing Lab, New York University** | 2022 - 2023 <br/>
+Research Assistant \
+Supervisors: [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) and [Dr. Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) \
+GPU acceleration for contact simulations in [PolyFEM](http://github.com/polyfem/polyfem).
 
-- **Microsoft Research Asia** | Aug 2020 - Feb 2021  <br/>
-R&D Intern at *Data, Knowledge and Intelligence* group, full-time, onsite \
-  Conducted research on recommending charts from tables (Table2Charts) using reinforcement learning, delivering the technique to Bing Search and Excel Spreadsheet Intelligence, and developed a multilingual key-phrase extraction algorithm used in Forms Ideas and Teams polls.
+**Microsoft Research Asia** | Aug 2020 - Feb 2021  <br/>
+Research Intern at *Data, Knowledge and Intelligence* group, full-time, onsite \
+  Tabular data intelligence with reinforcement learning.
 
-- **CILVR Lab, New York University** | Mar 2020 - May 2021 <br/> 
-Independent Study, supervised by [Prof. Dr. Iacer Calixto](http://iacercalixto.github.io) and [Dr. Clara Vania](http://claravania.github.io)\
-  Conducting research on learning robust mulilingual multimodal knowledge graph representations.
+**CILVR Lab, New York University** | Mar 2020 - May 2021 <br/> 
+Research Assistant \
+Supervisors: [Dr. Iacer Calixto](http://iacercalixto.github.io) and [Dr. Clara Vania](http://claravania.github.io)\
+Learning robust mulilingual multimodal knowledge graph representations.
 
-- **Center for Speech and Language Technologies, Tsinghua University** | 2018 - 2019<br/>
+<!-- - **Center for Speech and Language Technologies, Tsinghua University** | 2018 - 2019<br/>
 Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
-  Conducting research on poetry generation with rythm (YunLv) as soft constraint.
+  Conducting research on poetry generation with rythm (YunLv) as soft constraint. -->
 
 ## Publication
 
-<!-- [→ Full list](/projects/) -->
-
-<ProjectCard image="/projects/duck.png">
+<ProjectCard image="/projects/fluidrep.png">
 
   **Neural Kinematic Bases for Fluids**
   
   **Yibo Liu**, Zhixin Fang, Sune Darkner, Noam Aigerman, Kenny Erleben, Paul Kry, Teseo Schneider
   
-  [[Paper](https://arxiv.org/abs/2504.15657)] [[Demo](TODO)]
+  **[SIGGRAPH Asia 2025]** *In ACM SIGGRAPH Asia Conference Proceedings* Sept. 2025.
+
+  [[Paper](https://arxiv.org/abs/2504.15657)]
 
 </ProjectCard>
 
@@ -99,9 +83,9 @@ Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
 
   **Emergent Crowds Dynamics from Language-Driven Multi-Agent Interactions**
 
-  *In Submission*
+  *Under Review*
   
-  [[Paper](TODO)] [[Demo](TODO)]
+  [[Paper](https://arxiv.org/abs/2508.15047)]
 
 </ProjectCard>
 
@@ -112,9 +96,9 @@ Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
   
   Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, **Yibo Liu**, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
 
-**[CVPR 2024 Best Paper Nomination]** *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, pp. 9556-9567, Jun. 2024
+**[CVPR 2024]** *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, pp. 9556-9567, Jun. 2024
 
-  [[Paper](https://arxiv.org/abs/2311.16502)] [[Web Page](https://mmmu-benchmark.github.io)]
+  [[Paper](https://arxiv.org/abs/2311.16502)] [[Website](https://mmmu-benchmark.github.io)]
 
 </ProjectCard>
 
@@ -124,7 +108,7 @@ Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
 
   Ningyuan Huang, Yash R. Deshpande, **Yibo Liu**, Houda Alberts, Kyunghyun Cho, Clara Vania, Iacer Calixto
 
-  *arXiv* 2206.13163, Jun. 2022
+  **[preprint]** *arXiv* 2206.13163, Jun. 2022
 
   [[Paper](https://arxiv.org/abs/2206.13163)]
 
@@ -136,7 +120,7 @@ Research intern, supervised by [Prof. Dr. Dong Wang](http://wangd.cslt.org)  \
 
 Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clara Vania, Iacer Calixto
 
-*Proceedings of the 1st Workshop on Multilingual Representation Learning*, pp. 138-152, Nov. 2021. *(colocated with EMNLP 2021)*
+**[EMNLP 2021 workshop]** *Proceedings of the 1st Workshop on Multilingual Representation Learning*, pp. 138-152, Nov. 2021.
 
   [[Paper](https://aclanthology.org/2021.mrl-1.13.pdfs)] 
 
@@ -148,14 +132,17 @@ Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clar
 
  Mengyu Zhou, Qingtao Li, Xinyi He, Yuejiang Li , **Yibo Liu**, Wei Ji, Shi Han, Yining Chen, Daxin Jiang, Dongmei Zhang.
 
-*Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, pp. 2389-2399, Aug. 2021
+**[SIGKDD 2021]** *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, pp. 2389-2399, Aug. 2021
 
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467279)] [[Code](https://github.com/microsoft/Table2Charts)]
 
 </ProjectCard>
 
 ## Open-Source Contribution
-<ProjectCard image="/projects/ntm.png" >
+
+[→ Full list](/opensource/)
+
+<!-- <ProjectCard image="/projects/ntm.png" >
 
   **Neural Topic Model Library**
   - The first Python library containing all cutting-edge neural topic models, collaborated with [Leilan Zhang](https://scholar.google.com/citations?user=FDeI9yUAAAAJ&hl=zh-CN).
@@ -163,15 +150,16 @@ Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clar
 
   [[GitHub | 431 star :star: | 80 fork](https://github.com/zll17/Neural_Topic_Models/tree/dev_b)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 <ProjectCard image="/projects/polyfem.png" >
 
   **PolyFEM**
- - Developed GPU acceleration for contact simulations.
- - Profiled contact solvers in the PolyFEM library, identified performance bottlenecks.
+- Add simulation for pyramid meshes.
+- Add GPU acceleration for contact simulations ([PolySolve](https://github.com/polyfem/polysolve)).
+- Add support for prism and pyramid output ([Paraviewo](https://github.com/polyfem/paraviewo)).
 
-  [[GitHub | 562 star :star: | 88 fork](TODO)]
+[[GitHub | 589 star :star: | 93 fork](https://github.com/polyfem/polyfem)]
 
 </ProjectCard>
 
@@ -189,119 +177,51 @@ Houda Alberts, Ningyuan Huang, Yash Deshpande, **Yibo Liu**, Kyunghyun Cho, Clar
 
 </ProjectCard>
 
-<!-- <ProjectCard image="/projects/deform.png" >
-
-  **A Python Implementation for *Harmonic Coordinates for Character Articulation***
-  - Implemented a Python-based framework for harmonic coordinates to enable smooth and natural deformation in character articulation. 
-  - The system allows intuitive control of complex mesh movements while preserving geometric consistency.
-
-  [[GitHub](https://github.com/xDarkLemon/Harmonic-Coordinates-for-Character-Articulation)]
-
-</ProjectCard>
-
-<ProjectCard image="/projects/09.png">
-
-  **Expressive Power, Generalization, and Optimization of Graph Neural Networks: A Survey**
- - Summarized theoretical frameworks on GNN expressive power and generalization, offering a structured understanding of their strengths and limitations.
- - Examined overfitting challenges and outlined optimization strategies to improve GNN performance in practice.
-
-  [[Report](/files/GNN_Survey.pdf)]
-
-</ProjectCard> -->
-
-<!-- Summarized the theoretic frameworks of GNN’s expressive power; summarized the generalization bounds,
-the generalization ability of different GNNs, and the methods to improve generalization ability; stated the
-explanation of over-fitting problem and summarized the optimization methods. -->
-
-<!-- <ProjectCard image="/projects/10.png" >
-
-  **COIG-PC: Chinese Open Instruction Generalist Prompt Collection**
-  - Collected prompts to facilitate the fine-tuning and optimization of Chinese language models.
-  
-  [[Huggingface Dataset](https://huggingface.co/datasets/BAAI/COIG-PC)]
-
-</ProjectCard> -->
-
-<!-- <ProjectCard image="/projects/07.png" >
-
-  **MMMU Benchmark for Expert AGI**
-  - Collected college-level multimodal questions and conducted empirical studies on error analysis.
-
-  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467279)] [[Web Page](https://mmmu-benchmark.github.io)]
-
-</ProjectCard> -->
-
-<!-- <ProjectCard image="/projects/10.png" >
-
-  **COIG-PC: Chinese Open Instruction Generalist Prompt Collection**
-  - Collected prompts to facilitate the fine-tuning and optimization of Chinese language models.
-  
-  [[Huggingface Dataset](https://huggingface.co/datasets/BAAI/COIG-PC)]
-
-</ProjectCard>
-
-
-## Blog Posts
-
-<!-- [→ Full list](/article/) -->
-
-<!-- <ProjectCard image="/projects/08.png">
-
-  **2021科大讯飞鸟鸣识别比赛总结**
-
-鸟类鸣叫声识别挑战赛旨在增强自动鸟类鸣叫声识别技术，预测出每个测试音频中出现的鸟类物种。比赛中，探索了多种特征提取方法、数据增强方法，对音频频谱图使用图像分类算法进行分类，探索了多种模型，包括CNN，CNN特征提取+序列模型（LSTM/Transformer），以及Vision Transformer。最终使用模型集成提升效果。
-
-  [[full article](/article/bird_song.html)] [[code](https://github.com/xDarkLemon/BirdRec)]
-
-</ProjectCard> -->
-
 ## Talks
-<!-- **Apr 2025** I gave a guest talk *["Neural Kinematic Fields for Fluids"]()* for the course CSC 586 Geometric Modeling, University of Victoria. -->
 
 **Oct 2021** I presented our paper *["VisualSem: a high-quality knowledge graph for vision and language"](/files/MRL_slides.pdf)* at [EMNLP Workshop on Multilingual Representation Learning 2021](https://www.aclweb.org/portal/content/1st-workshop-multilingual-representation-learning-mrl-emnlp).
 
 
 ## Peer Review Service
-**AAAI Conference on Artificial Intelligence (AAAI)** Reviewer, 2025
+International Conference on Learning Representations (ICLR) Reviewer, 2026
 
-**International Conference on Learning Representations (ICLR)** Reviewer, 2025
+AAAI Conference on Artificial Intelligence (AAAI) Reviewer, 2025
 
-**Transactions on Visualization and Computer Graphics (TVCG)** Reviewer, 2024
+International Conference on Learning Representations (ICLR) Reviewer, 2025
+
+Transactions on Visualization and Computer Graphics (TVCG) Reviewer, 2024
 
 ## Volunteer
-**SIGGRAPH Asia 2024** Student Volunteer | Tokyo, Japan | Dec 2024
+**Judge | NASA Space Apps Challenges 2025 Victoria** | Victoria, Canada | Oct 2025
+
+**Student Volunteer | SIGGRAPH Asia 2024** | Tokyo, Japan | Dec 2024
 
 ## Teaching Assistantship
-**Introduction to Computer Graphics** | University of Victoria | 2025 summer
+Give lectures, lead lab sessions, grade assignments, proctor exams for the following courses:
 
-**Data Mining** | University of Victoria | 2025 spring, 2024 winter, 2023 fall
+**Geometry Modeling** | 2026 winter
 
-**Introduction to C++** | University of Victoria | 2024 fall
+**Introduction to Computer Graphics** | 2025 summer
 
-**Software Architecture** | University of Victoria | 2024 fall
+**Data Mining** | 2025 spring, 2024 winter, 2023 fall
 
-<!-- ## Skills
-- Python, PyTorch, CUDA, C++, C#
-- Blender, Unity, ParaView -->
+**Introduction to C++** | 2024 fall
 
-## Blender Art Gallery
+**Software Architecture** | 2024 fall
 
-<!-- ## Hobbies
+## Skills
+**Research Expertise:** Physics-Based Simulation; Geometry Processing; Fluids Simulation; Crowds Animation; Character Animation; Physics-informed Neural Networks; Multimodal LLM Understanding; Knowledge Base; Graph Neural Networks;
 
-**Cycling**: Cycled around Qinghai Lake (360 kilometers) in 5 days.
+**Graphics:** C/C++; Blender, Unity, Paraview; Parallel Computing (CUDA, MPI);
 
-**Snowboarding**: Intermediate level.
+**ML/NLP:** Python; PyTorch, Tensorflow; Hugging Face Transformers, SpaCy, NLTK, Gensim;  OpenCV, PIL, Librosa; NumPy, Pandas, HDF5, SciPy, Scikit Learn;
 
-**Bouldering**: Beginner level. -->
+**DevOps:** C# (Unity, .NET); Java; HTML/CSS, Django, MySQL; Bash Shell, Git, Linux;
 
-<!-- ## Awards & Honors
+**Hardware:** VHDL, Microcontroller programming, STM32
 
-### Contests
+<!-- ## Blender Art Gallery -->
 
-- First place in **The Hogwarts House Cup** -->
-
-
-<!-- Custom style for this page -->
 
 <style lang="stylus">
 

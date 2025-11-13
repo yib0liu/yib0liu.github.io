@@ -47,7 +47,7 @@ PhD student in Computer Science \
 Supervisor: [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) \
 Physics-informed neural framework for fluids simulation; Crowds animation and motion synthesis; Geometry processing.
 
-**Geometric Computing Lab, New York University** | 2022 - 2023 <br/>
+**Geometric Computing Lab, New York University** | May 2022 - May 2023 <br/>
 Research Assistant \
 Supervisors: [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) and [Dr. Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) \
 GPU acceleration for contact simulations in [PolyFEM](http://github.com/polyfem/polyfem).

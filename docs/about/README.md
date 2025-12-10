@@ -1,42 +1,5 @@
----
-pageClass: about-page
-description: 'The biography and information about me.'
-avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
-socials:
-- title: github
-  link: https://github.com/mtobeiyf
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
-- title: email
-  link: 'mailto:harry[at]gmail.com'
-actions:
-- text: Projects
-  link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
----
+## About
 
-<AboutCard :frontmatter="$page.frontmatter" >
+Currently, I am a Ph.D. student in Computer Science at University of Victoria ([UVIC](https://www.uvic.ca/)), working with [Dr. Teseo Schneider](http://web.uvic.ca/~teseo/) . Prior to this, I obtained my M.S. in Computer Science from New York University ([NYU](https://www.nyu.edu/)) and B.Eng. in Electronic Engineering from Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)). Previously, I have interned at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)). 
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
-
-</AboutCard>
-
-<style lang="stylus">
-
-.theme-container.about-page .page
-  background-color #e6ecf0
-  min-height calc(100vh)
-  
-  .last-updated
-    display none
-
-</style>
+My current research focuses on computer graphics, physics-based simulation, geometry processing, particularly on learning-based paradigms to enhance simulations.

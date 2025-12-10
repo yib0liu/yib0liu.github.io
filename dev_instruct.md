@@ -15,3 +15,6 @@ xDarkLemon.github.io里面是源码，通过yarn run build命令生成静态页�
 https://github.com/imfing/vuepress-homepage
 https://vuepress-homepage.netlify.app/guide
 https://vuepress.vuejs.org/guide/deploy.html#github-pages
+
+添加静态html：
+整个文件夹（含index.html）放在docs/.vuepress/public下面

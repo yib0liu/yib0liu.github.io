@@ -1,0 +1,1 @@
+When develop, use `python3 -m http.server 8000` to start a local host to preview the html, do not open with local file, otherwise the embeded ytb videos cannot show
